@@ -9,3 +9,6 @@ def multiplier(a, b):
 
 def space_splitter(string):
     return string.split()
+
+def some_other_func():
+    ...
